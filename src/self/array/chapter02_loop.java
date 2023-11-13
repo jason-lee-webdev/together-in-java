@@ -1,0 +1,14 @@
+package self.array;
+
+/*학생 수 10명인 어느 반에 학생 번호가 오름차순으로 정렬된 출석부가 있습니다.
+수업을 시작하기 전에 출석 확인을 위해 처음부터 끝까지 학생 명단을 부릅니다.*/
+
+public class chapter03_loop {
+	public static void main(String[] args) {
+		int[] students = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+		for(int i = 0; i < students.length; i++) {
+			System.out.println("학생 번호 : " + students[i]);
+		}
+	}
+}
