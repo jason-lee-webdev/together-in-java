@@ -9,7 +9,7 @@ package self.array;
 
 import java.util.Arrays;
 
-public class chapter03_loop_2 {
+public class chapter02_loop_2 {
 	public static void main(String[] args) {
 		int[] students = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 

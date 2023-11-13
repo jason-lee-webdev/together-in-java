@@ -5,7 +5,7 @@ package self.array;
 foreach 를 사용하여 이전에 봤던 출석 명단을 부르는 코드에서 for 문을 foreach 문으로 바꿉니다.*/
 
 
-public class chapter03_loop_foreach {
+public class chapter02_loop_foreach {
 	public static void main(String[] args) {
 		int[] students = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
